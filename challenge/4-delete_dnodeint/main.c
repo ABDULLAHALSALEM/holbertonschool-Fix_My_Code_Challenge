@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include "dlistint.h"
+#include "lists.h"
 
 int main(void)
 {
